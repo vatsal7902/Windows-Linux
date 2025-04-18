@@ -13,4 +13,4 @@ This highlights practical experience working with Windows Server 2019 and Active
 
 ### Windows Server Administration with Active Directory & File Management
 This portfolio showcases practical experience configuring and managing Windows Server 2019 environments with a focus on Active Directory, user access control, and file system permissions. Through a series of structured labs, the work demonstrates key skills including domain controller deployment, group and user account management, roaming profiles, logon restrictions, and NTFS and share permissions. Each lab reflects a solid grasp of enterprise-level IT infrastructure, emphasizing secure, efficient, and scalable system administration practices. <br>
-[Windows Server Administration with Active Directory]()
+[Windows Server Administration with Active Directory](https://github.com/vatsal7902/Windows-Linux/blob/main/Windows%20Server%20Administration%20with%20Active%20Directory.pdf)
