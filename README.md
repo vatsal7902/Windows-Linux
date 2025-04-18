@@ -17,4 +17,4 @@ This portfolio showcases practical experience configuring and managing Windows S
 
 ### Windows Server & Network Administration Experience
 As a dedicated and detail-oriented IT professional, I’ve gained hands-on experience with core Windows Server functionalities through practical lab environments, including DHCP configuration and Group Policy management. From setting up IP address scopes and reservations to implementing Group Policy Objects (GPOs) for centralized control of user and computer settings, I’ve worked through real-world administrative scenarios to understand the essentials of network infrastructure and domain-level policy enforcement. These labs helped me grasp critical concepts like IP leasing vs. reservation, DHCP server authorization, and GPO inheritance and enforcement—all within a secure and structured Active Directory environment. This foundation reflects my growing proficiency in managing enterprise-grade IT systems. <br>
-[Windows Server & Network Administration Experience]()
+[Windows Server & Network Administration Experience](https://github.com/vatsal7902/Windows-Linux/blob/main/DHCP%20%26%20Group%20Policy.pdf)
