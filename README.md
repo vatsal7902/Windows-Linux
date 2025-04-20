@@ -21,4 +21,4 @@ As a dedicated and detail-oriented IT professional, I’ve gained hands-on exper
 
 ### Securing Windows Server (Network Infrastructure Security)
 It demonstrates the configuration of secure domain join permissions by removing authenticated users, setting the ms-DS-MachineAccountQuota to zero, and delegating access to a service account within Active Directory. It includes implementing strict account policies—such as password complexity, history, aging, and lockout rules—through Group Policy Management to enforce secure authentication practices. The setup reflects real-world scenarios, emphasizing the principle of least privilege and showcasing practical skills in strengthening Windows Server network infrastructure security. <br>
-[Securing Windows Server]()
+[Securing Windows Server](https://github.com/vatsal7902/Windows-Linux/blob/main/Securing%20Windows%20Server%20(Network%20Infrastructure%20Security).pdf)
