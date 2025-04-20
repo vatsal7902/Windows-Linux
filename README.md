@@ -25,4 +25,4 @@ It demonstrates the configuration of secure domain join permissions by removing 
 
 ### Securing Windows Server (Server Hardening)
 This project demonstrates practical skills in Windows Server hardening through the implementation of Encrypted File System (EFS), Windows Firewall configurations, and Audit Policies. It covers the setup of disk encryption for data protection, creation of custom firewall rules to control network traffic (e.g., blocking ICMP), and audit logging to monitor critical security events like unauthorized access and policy changes. These tasks were performed using Group Policy Management and Event Viewer in a domain-controlled environment, reinforcing layered security measures and best practices for securing enterprise Windows Server infrastructures. <br>
-[Securing Windows Server]()
+[Securing Windows Server](https://github.com/vatsal7902/Windows-Linux/blob/main/Securing%20Windows%20Server%20(Server%20Hardening).pdf)
